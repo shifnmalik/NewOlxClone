@@ -31,7 +31,7 @@ function App() {
         <Route exact path='/' >
       <Home/>
       </Route>
-      <Route exact path='/React-Olx-Clone' >
+      <Route exact path='/NewOlxClone' >
       <Home/>
       </Route>
       <Route  path='/signup' >
